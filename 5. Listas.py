@@ -1,3 +1,5 @@
+#Son parecidas a los arrays en otros lenguajes de rogramación
+
 Mylista = [1,"Luis", 23, 10.5, True]
 
 colors = ["blue","green","blue","red"]
